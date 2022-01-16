@@ -1,7 +1,7 @@
 import {
   None,
   P, //Pipe
-} from "./NonePcustomTypeOperatorF.js";
+} from "./NonePcustomTypeOperatorF";
 
 import { IO, next } from "./ReactiveMonad";
 
